@@ -4,7 +4,7 @@ function insert(num){
 }
 
 function cls(){
-    document.getElementById('resultado').innerHTML = ''
+    document.getElementById('resultado').innerHTML = ' '
 }
 
 function back(){
